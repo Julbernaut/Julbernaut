@@ -1,10 +1,6 @@
 💫 About Me:
 Currently studying computer science.
 
-
-## 🌐 Socials:
-Not social
-
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
