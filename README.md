@@ -1,4 +1,5 @@
-💫 About Me:
+# 💫 About Me:
+
 Currently studying computer science.
 
 # 💻 Tech Stack:
