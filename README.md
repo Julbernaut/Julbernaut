@@ -1,4 +1,3 @@
-![Red Panda](https://github.com/user-attachments/assets/80fcd4c7-57dc-4417-9846-8cadac2e8dc2)#
 💫 About Me:
 Currently studying computer science.
 
